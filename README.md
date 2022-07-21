@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sricharanbatchu
-- 👀 I’m interested in problem solving
-- 🌱 I’m currently learning full stack
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in problem solving and Full stack
+- 🌱 I’m currently learning Front End Technologies
+- 💞️ I’m love with Python
 - 📫 How to reach me batchu.sri.charan25@gmail.com
 
 <!---
